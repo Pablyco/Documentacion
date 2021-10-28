@@ -28,7 +28,7 @@ Dentro de class hay diferentes modulos
 >UParticleSystem* ExplosionEffect;   
 
 Y en el engine se veria algo asi:  
-![Muy nashe El pablito!](Imagenes\Engine\CategoriaExample.png "Engine View")
+[![Muy nashe El pablito!](Imagenes\Engine\CategoriaExample.png "ANASHE")](https://github.com/Pablyco/Documentacion/blob/master/Imagenes/Engine/CategoriaExample.png?raw=true)
 
 
 ### **_Eventos_**:
