@@ -1,5 +1,5 @@
 # Intruducción a c++
-[🏠Home](Bienvenida.md)
+[🏠Home](Readme.md)
 
 Los archivos de **C++** se dividen en dos **.h y el cpp.**  
 ### **_Clases en UE4_**:
@@ -21,6 +21,15 @@ Dentro de class hay diferentes modulos
  3-**UPROPERTY(BlueprintReadOnly**) int Example1 [_Se puede ver en blueprint_]   
  4-**UPROPERTY(BlueprintEditOnly)** int Example1 [_Se puede editar en blueprint_]  
  5-**UPROPERTY(BlueprintReadWrite)** int Example1 [_Se puede editar en blueprint_]
+
+ tambien se pueden poner en categorias por ejemplo:
+
+>UPROPERTY(EditDefaultsOnly, Category = "FX")  
+>UParticleSystem* ExplosionEffect;   
+
+Y en el engine se veria algo asi:  
+![Muy nashe El pablito!](Imagenes\Engine\CategoriaExample.png "Engine View")
+
 
 ### **_Eventos_**:
 
