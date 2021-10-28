@@ -1,4 +1,4 @@
-# Intruducción a c++
+# 💫 Intruducción a C++ 💫
 [🏠Home](Readme.md)
 
 Los archivos de **C++** se dividen en dos **.h y el cpp.**  
