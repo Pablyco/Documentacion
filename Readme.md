@@ -4,8 +4,9 @@
 
 ### _En toda la documentacion va a estar un boton de_ [🏠Home](Bienvenida.md) _para volver al inicio de esta guia_.
 
-Para buscar en la documentacion:
-Buscador de archivos: Ctrl + P
+Para buscar en la documentacion(_Desde Vscode_):  
+
+Buscador de archivos: Ctrl + P  
 Buscador en Vscode: Ctrl + T
 
 

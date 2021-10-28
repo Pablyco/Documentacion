@@ -28,7 +28,7 @@ Dentro de class hay diferentes modulos
 >UParticleSystem* ExplosionEffect;   
 
 Y en el engine se veria algo asi:  
-![Muy nashe El pablito!](/Imagenes/Engine/CategoriaExample.png?raw=true "Optional Title")
+![Muy nashe El pablito!](/Imagenes/Engine/CategoriaExample.png?raw=true "Que haces leyendo esto pa?")
 
 
 ### **_Eventos_**:
